@@ -1,0 +1,521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"VueR",
+				"VueRouter"
+			],
+			[
+				"post",
+				"posts"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"password",
+				"password_confitmation"
+			],
+			[
+				"PA",
+				"password"
+			],
+			[
+				"q",
+				"qandas"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"co",
+				"compact"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"text-s",
+				"text-decoration-style"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"at",
+				"article\tTag"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"bo",
+				"content-box"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"hr",
+				"hr\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"Vue",
+				"VueRouter"
+			],
+			[
+				"V",
+				"VueRouter"
+			],
+			[
+				"boo",
+				"books"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 263.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package re",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"cd ~/.config/sublime-text-3/Packages/",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/resources/views/register.blade.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/public/css/style.css",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/resources/views/login.blade.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/resources/views/blog.blade.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/resources/views/index.blade.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/resources/views/main.blade.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/app/Http/Controllers/PostsController.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/app/Http/Controllers/SessionsController.php",
+		"/home/jelena/Documents/Projects/eCV/eCV/resources/views/master.blade.php",
+		"/home/jelena/Documents/Projects/eCV/eCV/resources/views/welcome.blade.php",
+		"/home/jelena/Documents/Projects/eCV/eCV/resources/assets/js/views/Projects.vue",
+		"/home/jelena/Documents/Projects/eCV/eCV/resources/assets/js/views/Home.vue",
+		"/home/jelena/Documents/Projects/eCV/eCV/resources/assets/js/routes.js",
+		"/home/jelena/Documents/Projects/eCV/eCV/public/css/app.css",
+		"/home/jelena/Documents/Projects/eCV/eCV/resources/views/header.blade.php",
+		"/home/jelena/Documents/Projects/eCV/eCV/resources/assets/sass/app.scss",
+		"/home/jelena/Documents/Projects/eCV/eCV/resources/assets/js/app.js",
+		"/home/jelena/Documents/Projects/eCV/eCV/resources/assets/js/bootstrap.js",
+		"/home/jelena/Documents/Projects/eCV/eCV/resources/assets/js/views/About.vue",
+		"/home/jelena/Documents/Projects/eCV/eCV/public/img/procesor.png",
+		"/home/jelena/Documents/Projects/eCV/eCV/webpack.mix.js",
+		"/home/jelena/Documents/Projects/eCV/eCV/webpack.config.js",
+		"/home/jelena/Documents/Projects/eCV/eCV/package.json",
+		"/home/jelena/Desktop/Tricky/tricky/index.html",
+		"/home/jelena/Desktop/Tricky/tricky/package.json",
+		"/home/jelena/Desktop/Tricky/tricky/webpack.config.js",
+		"/home/jelena/Documents/Projects/Tricky/tricky/src/components/Question.vue",
+		"/home/jelena/Documents/Projects/Tricky/tricky/src/App.vue",
+		"/home/jelena/Documents/Projects/Tricky/tricky/src/assets/app.css",
+		"/home/jelena/Documents/Projects/Tricky/tricky/src/props.js",
+		"/home/jelena/Documents/Projects/Tricky/tricky/index.html",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/routes/web.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/resources/views/show.blade.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/app/Post.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/resources/views/search.blade.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/app/User.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/app/Http/Controllers/RegistrationController.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/resources/views/errors.blade.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/database/migrations/2018_05_01_103805_create_books_table.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/database/migrations/2018_05_01_174458_create_posts_table.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/app/Http/Controllers/RegistrationsController.php",
+		"/home/jelena/Documents/Projects/Tricky/tricky/src/main.js",
+		"/home/jelena/Documents/Projects/ZastoZato/zaz/resources/views/index.html",
+		"/home/jelena/Documents/Projects/ZastoZato/zaz/public/css/app.css",
+		"/home/jelena/Documents/Projects/ZastoZato/zaz/resources/assets/sass/app.scss",
+		"/home/jelena/Documents/Projects/InteractiveMe/intMe/resources/assets/js/components/Home.vue",
+		"/home/jelena/Documents/Projects/InteractiveMe/intMe/webpack.mix.js",
+		"/home/jelena/Documents/Projects/InteractiveMe/intMe/resources/assets/js/app.js",
+		"/home/jelena/Documents/Projects/InteractiveMe/intMe/resources/assets/js/bootstrap.js",
+		"/home/jelena/Documents/Projects/InteractiveMe/intMe/webpack.config.js",
+		"/home/jelena/Documents/Projects/InteractiveMe/intMe/resources/assets/sass/app.scss",
+		"/home/jelena/Documents/Projects/InteractiveMe/intMe/package.json",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/app/Http/Controllers/BooksController.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/resources/views/form.blade.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/app/Model.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/app/Book.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/resources/views/footer.blade.php",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/public/img/books.jpg",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/public/img/library.jpg",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/books.jpg",
+		"/home/jelena/Documents/Projects/LibraryDC/libdc/.env",
+		"/home/jelena/Desktop/script.js",
+		"/home/jelena/Desktop/index.html",
+		"/home/jelena/Desktop/style.css",
+		"/home/jelena/Desktop/test.html",
+		"/home/jelena/Desktop/main.css",
+		"/home/jelena/.cache/.fr-lKW2vE/organizing-data-with-tables/index.html",
+		"/home/jelena/.cache/.fr-Y4DOkt/organizing-data-with-tables/assets/stylesheets/main.css",
+		"/home/jelena/Documents/Bags/style.css",
+		"/home/jelena/Documents/Bags/index.html",
+		"/home/jelena/Documents/E-Bags/style.css",
+		"/home/jelena/Documents/style.css",
+		"/home/jelena/Documents/E-Bags/index.html",
+		"/home/jelena/.cache/.fr-b6aYVJ/organizing-data-with-tables/index.html",
+		"/home/jelena/.cache/.fr-0T6hhs/organizing-data-with-tables/assets/stylesheets/main.css",
+		"/home/jelena/.cache/.fr-vWGmTJ/organizing-data-with-tables/register.html",
+		"/home/jelena/Documents/E-Bags/src/index.html",
+		"/home/jelena/Downloads/organizing-data-with-tables.zip",
+		"/home/jelena/Documents/test.html",
+		"/home/jelena/Documents/stream/resources/views/master.blade.php",
+		"/home/jelena/Documents/stream/resources/assets/js/routes.js",
+		"/home/jelena/Documents/stream/public/js/app.js",
+		"/home/jelena/Documents/stream/resources/views/layouts/welcome.blade.php",
+		"/home/jelena/Documents/stream/routes/web.php",
+		"/home/jelena/Documents/stream/resources/assets/js/bootstrap.js",
+		"/home/jelena/Documents/stream/node_modules/express/lib/router/index.js",
+		"/home/jelena/Documents/stream/resources/assets/js/app.js",
+		"/home/jelena/Documents/stream/resources/views/layouts/master.blade.php",
+		"/home/jelena/Documents/stream/resources/views/welcome.blade.php",
+		"/home/jelena/Documents/stream/webpack.mix.js",
+		"/home/jelena/Documents/stream/webpack.config.js",
+		"/home/jelena/Documents/stream/resources/assets/js/components/ExampleComponent.vue",
+		"/home/jelena/Documents/stream/resources/assets/sass/app.scss",
+		"/home/jelena/Documents/stream/package.json",
+		"/home/jelena/Documents/stream/resources/assets/js/views/Home.vue",
+		"/home/jelena/Documents/tt.html",
+		"/home/jelena/.config/sublime-text-3/Packages/SyntaxHighlightTools/README.rst",
+		"/home/jelena/.config/sublime-text-3/Packages/Colorsublime - Themes/Facebook.tmTheme",
+		"/home/jelena/.config/sublime-text-3/Packages/Base16/Themes/base16-gruvbox-dark-hard.tmTheme",
+		"/home/jelena/.config/sublime-text-3/Packages/Material Theme/Material-Theme.sublime-theme",
+		"/home/jelena/.config/sublime-text-3/Packages/User/PackageResourceViewer.sublime-settings",
+		"/home/jelena/Documents/libDC/package.json",
+		"/home/jelena/Documents/libDC/resources/views/master.blade.php",
+		"/home/jelena/Documents/libDC/resources/views/partials/footer.blade.php",
+		"/home/jelena/Documents/libDC/resources/views/partials/main.blade.php",
+		"/home/jelena/Documents/libDC/app/Http/Controllers/BookController.php",
+		"/home/jelena/Documents/libDC/routes/web.php",
+		"/home/jelena/Documents/libDC/resources/views/create.blade.php",
+		"/home/jelena/Documents/libDC/resources/views/show.blade.php",
+		"/home/jelena/Documents/libDC/resources/views/review.blade.php",
+		"/home/jelena/Documents/libDC/resources/views/main.blade.php",
+		"/home/jelena/Documents/libDC/public/css/blog.css",
+		"/home/jelena/Documents/libDC/resources/views/books.blade.php",
+		"/home/jelena/Documents/libDC/resources/views/header.blade.php",
+		"/home/jelena/Documents/libDC/resources/views/footer.blade.php",
+		"/home/jelena/Documents/libDC/public/css/app.css",
+		"/home/jelena/Documents/libDC/app/Book.php",
+		"/home/jelena/Documents/libDC/app/Model.php",
+		"/home/jelena/Documents/libDC/.env",
+		"/home/jelena/Documents/libDC/database/migrations/2018_04_23_163038_create_books_table.php",
+		"/home/jelena/Documents/libdc/app/User.php",
+		"/home/jelena/Documents/libdc/database/migrations/2018_04_23_111111_create_books_table.php",
+		"/home/jelena/Documents/libdc/.env",
+		"/home/jelena/Documents/libdc/resources/views/layouts/footer.blade.php",
+		"/home/jelena/Documents/libdc/resources/views/layouts/header.blade.php",
+		"/home/jelena/Documents/libdc/resources/views/layouts/nav.blade.php",
+		"/home/jelena/Documents/libdc/routes/web.php",
+		"/home/jelena/Documents/libdc/app/Http/Controllers/BooksController.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n        ",
+			"            <img src=\"books.jpg\">\n",
+			"38, 50, 56"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LdcIII.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"rwe",
+				"resources/views/welcome.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
